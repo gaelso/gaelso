@@ -1,4 +1,4 @@
-## Hello, Bonjour, Xin Chào <img src="https://raw.githubusercontent.com/gaelso/gaelso/master/wave.gif" width="30px">
+### Hello, Bonjour, Xin Chào <img src="https://raw.githubusercontent.com/gaelso/gaelso/master/wave.gif" width="30px">
 
 <!--
 Original gif from "https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"
@@ -25,11 +25,11 @@ I am **Gael Sola**, forester, data scientist and aspiring web developer. I am pa
 
 :eyeglasses: Github stats:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github-readme-stats.vercel.app/api?username=gaelso&count_private=true&show_icons=true&include_all_commits=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaelso&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gaelso&count_private=true&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaelso&count_private=true&layout=compact" />
 </a>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gaelso&count_private=true&show_icons=true&include_all_commits=true)
