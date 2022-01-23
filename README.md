@@ -15,7 +15,7 @@ I am **Gael Sola**, forester, data scientist and aspiring web developer. I am pa
 
 ⚡ Technologies:
 
-![R](https://img.shields.io/badge/-R-276DC3?style=?style=for-the-badge&logo=appveyor&logo=R&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=appveyor&logo=R&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
