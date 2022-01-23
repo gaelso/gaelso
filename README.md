@@ -25,17 +25,12 @@ I am **Gael Sola**, forester, data scientist and aspiring web developer. I am pa
 
 :eyeglasses: Github stats:
 
-<a href="https://github-readme-stats.vercel.app/api?username=gaelso&count_private=true&show_icons=true&include_all_commits=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaelso&count_private=true&show_icons=true&include_all_commits=true" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gaelso&count_private=true&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaelso&count_private=true&layout=compact" />
-</a>
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gaelso&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaelso&count_private=true&layout=compact)
+
 
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaelso&count_private=true&layout=compact)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gaelso)
 -->
 
