@@ -6,7 +6,7 @@ Original gif from "https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave
 
 I am **Gael Sola**, forester, data scientist and aspiring web developer. I am passionate about forests and I have a knack for explaining complex data and concepts with meaningful illustrations. 
 
-🌳 I currently work as a consultant at the Food and Agriculture Organization of United Nations on the impact of tropical forests on climate change. My daily work oscillate between data analysis of forest inventory data, GIS and reporting, mostly using R and Rstudio tools. I also provide hands-on R training for forestry data analysis. 
+🌳 I currently work as a consultant at the Food and Agriculture Organization of United Nations on the impact of tropical forests on climate change.
 
 📫 Find more about me and get in touch here:
 
@@ -16,6 +16,7 @@ I am **Gael Sola**, forester, data scientist and aspiring web developer. I am pa
 ⚡ Technologies:
 
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
