@@ -13,7 +13,7 @@ I am **Gael Sola**, forester, data scientist and aspiring web developer. I am pa
 [![Website Badge](https://img.shields.io/badge/-sola--analytics-%232167baff?style=flat&logo=Netlify&logoColor=white&link=https://sola-analytics.com)](https://www.sola-analytics.com)
 [![Linkedin Badge](https://img.shields.io/badge/-gaelsola-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaelsola/)](https://www.linkedin.com/in/gaelsola/)
 
-⚡ Technologies:
+⚡ skills:
 
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white)
 
